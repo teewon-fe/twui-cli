@@ -1,0 +1,11 @@
+{
+	"api-str": {"prefix": "stw-demo-api-str","body": ["\\$api.ui.demo.params.${1:str}"]},
+	"api-num": {"prefix": "stw-demo-api-num","body": ["\\$api.ui.demo.params.${1:num}"]},
+	"api-obj": {"prefix": "stw-demo-api-obj","body": ["\\$api.ui.demo.params.${1:obj}"]},
+	"api-bln": {"prefix": "stw-demo-api-bln","body": ["\\$api.ui.demo.params.${1:bln}"]},
+	"api-list": {"prefix": "stw-demo-api-list","body": ["\\$api.ui.demo.data.${1:list}"]},
+	"api-total": {"prefix": "stw-demo-api-total","body": ["\\$api.ui.demo.data.${1:total}"]},
+	"api-pageSize": {"prefix": "stw-demo-api-pageSize","body": ["\\$api.ui.demo.params.${1:pageSize}"]},
+	"api-pageNum": {"prefix": "stw-demo-api-pageNum","body": ["\\$api.ui.demo.params.${1:pageNum}"]},
+	"api-tree": {"prefix": "stw-demo-api-tree","body": ["\\$api.ui.demo.data.${1:tree}"]}
+}
